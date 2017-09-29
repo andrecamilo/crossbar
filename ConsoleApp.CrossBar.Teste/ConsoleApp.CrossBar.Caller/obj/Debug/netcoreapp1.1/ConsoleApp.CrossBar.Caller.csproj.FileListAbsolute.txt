@@ -1,0 +1,5 @@
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Caller\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Caller.deps.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Caller\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Caller.runtimeconfig.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Caller\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Caller.runtimeconfig.dev.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Caller\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Caller.dll
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Caller\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Caller.AssemblyInfo.cs

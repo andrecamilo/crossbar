@@ -1,0 +1,303 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "05a32e1ceb61cc7a8c64df32843fe20473e13dcc"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "consoleapp.crossbar.caller/1.0.0": {
+        "dependencies": {
+          "WampSharp.WebSocket4Net": "1.2.5.35-beta"
+        },
+        "runtime": {
+          "ConsoleApp.CrossBar.Caller.dll": {}
+        }
+      },
+      "castle.core/4.0.0-beta001": {
+        "dependencies": {
+          "System.Collections.Specialized": "4.0.1",
+          "System.ComponentModel.TypeConverter": "4.1.0",
+          "System.Diagnostics.TraceSource": "4.0.0",
+          "System.Xml.XmlSerializer": "4.0.11"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Castle.Core.dll": {}
+        }
+      },
+      "supersocket.clientengine.core/0.8.0.6": {
+        "runtime": {
+          "lib/netstandard1.3/SuperSocket.ClientEngine.dll": {}
+        }
+      },
+      "system.collections.nongeneric/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "system.collections.specialized/4.0.1": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.Specialized.dll": {}
+        }
+      },
+      "system.componentmodel.primitives/4.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
+        }
+      },
+      "system.componentmodel.typeconverter/4.1.0": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1",
+          "System.Collections.Specialized": "4.0.1",
+          "System.ComponentModel.Primitives": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
+        }
+      },
+      "system.diagnostics.tracesource/4.0.0": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.reactive/3.0.0": {
+        "dependencies": {
+          "System.Reactive.Core": "3.0.0",
+          "System.Reactive.Interfaces": "3.0.0",
+          "System.Reactive.Linq": "3.0.0",
+          "System.Reactive.PlatformServices": "3.0.0"
+        }
+      },
+      "system.reactive.core/3.0.0": {
+        "dependencies": {
+          "System.Reactive.Interfaces": "3.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/System.Reactive.Core.dll": {}
+        }
+      },
+      "system.reactive.interfaces/3.0.0": {
+        "runtime": {
+          "lib/netstandard1.0/System.Reactive.Interfaces.dll": {}
+        }
+      },
+      "system.reactive.linq/3.0.0": {
+        "dependencies": {
+          "System.Reactive.Core": "3.0.0",
+          "System.Reactive.Interfaces": "3.0.0",
+          "System.Runtime.InteropServices.WindowsRuntime": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Reactive.Linq.dll": {}
+        }
+      },
+      "system.reactive.platformservices/3.0.0": {
+        "dependencies": {
+          "System.Reactive.Core": "3.0.0",
+          "System.Reactive.Interfaces": "3.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/System.Reactive.PlatformServices.dll": {}
+        }
+      },
+      "system.runtime.interopservices.windowsruntime/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.InteropServices.WindowsRuntime.dll": {}
+        }
+      },
+      "system.runtime.serialization.primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      },
+      "system.valuetuple/4.0.0-rc3-24212-01": {
+        "runtime": {
+          "lib/netstandard1.1/System.ValueTuple.dll": {}
+        }
+      },
+      "system.xml.xmlserializer/4.0.11": {
+        "runtime": {
+          "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "wampsharp/1.2.5.35-beta": {
+        "dependencies": {
+          "Castle.Core": "4.0.0-beta001",
+          "System.Reactive": "3.0.0",
+          "System.Runtime.Serialization.Primitives": "4.1.1",
+          "System.ValueTuple": "4.0.0-rc3-24212-01"
+        },
+        "runtime": {
+          "lib/netstandard1.3/WampSharp.dll": {}
+        }
+      },
+      "wampsharp.websocket4net/1.2.5.35-beta": {
+        "dependencies": {
+          "WampSharp": "1.2.5.35-beta",
+          "WebSocket4Net": "0.15.0-beta5"
+        },
+        "runtime": {
+          "lib/netstandard1.3/WampSharp.WebSocket4Net.dll": {}
+        }
+      },
+      "websocket4net/0.15.0-beta5": {
+        "dependencies": {
+          "SuperSocket.ClientEngine.Core": "0.8.0.6"
+        },
+        "runtime": {
+          "lib/netstandard1.3/WebSocket4Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consoleapp.crossbar.caller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "castle.core/4.0.0-beta001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AhlzkJEGZddWgUj2Vub2h2p171eETkQzymd4ZSgcxQBZaxgsFSJjQ7I6fLs86nS39+xxsZR3eXaH86DWVrfurA==",
+      "path": "castle.core/4.0.0-beta001",
+      "hashPath": "castle.core.4.0.0-beta001.nupkg.sha512"
+    },
+    "supersocket.clientengine.core/0.8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LMJlyP1raOYVVZ1tTHl6vz5rop2mep5YK30uDJBIeM0vzuWcaehCvmfU26hoGoGR8Cvg0yffz7KyfKadE1ay1g==",
+      "path": "supersocket.clientengine.core/0.8.0.6",
+      "hashPath": "supersocket.clientengine.core.0.8.0.6.nupkg.sha512"
+    },
+    "system.collections.nongeneric/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
+      "path": "system.collections.nongeneric/4.0.1",
+      "hashPath": "system.collections.nongeneric.4.0.1.nupkg.sha512"
+    },
+    "system.collections.specialized/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HKQyVP0yH1I0YtK7KJL/28snxHNH/bi+0lgk/+MbURF6ULhAE31MDI+NZDerNWu264YbxklXCCygISgm+HMug==",
+      "path": "system.collections.specialized/4.0.1",
+      "hashPath": "system.collections.specialized.4.0.1.nupkg.sha512"
+    },
+    "system.componentmodel.primitives/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sc/7eVCdxPrp3ljpgTKVaQGUXiW05phNWvtv/m2kocXqrUQvTVWKou1Edas2aDjTThLPZOxPYIGNb/HN0QjURg==",
+      "path": "system.componentmodel.primitives/4.1.0",
+      "hashPath": "system.componentmodel.primitives.4.1.0.nupkg.sha512"
+    },
+    "system.componentmodel.typeconverter/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MnDAlaeJZy9pdB5ZdOlwdxfpI+LJQ6e0hmH7d2+y2LkiD8DRJynyDYl4Xxf3fWFm7SbEwBZh4elcfzONQLOoQw==",
+      "path": "system.componentmodel.typeconverter/4.1.0",
+      "hashPath": "system.componentmodel.typeconverter.4.1.0.nupkg.sha512"
+    },
+    "system.diagnostics.tracesource/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "path": "system.diagnostics.tracesource/4.0.0",
+      "hashPath": "system.diagnostics.tracesource.4.0.0.nupkg.sha512"
+    },
+    "system.reactive/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tm+Kmqs1Gp+fPqd7UvnQHXoQ1iUHD1Cxt9he6dudBFWZqyCJ6XKz/DvD/CQ+Kv/m11Y8iXKp99qhf2cg0IrTpg==",
+      "path": "system.reactive/3.0.0",
+      "hashPath": "system.reactive.3.0.0.nupkg.sha512"
+    },
+    "system.reactive.core/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1mnBTTNzTDaKYu2fYA0fcbWmWspwXheV9eFR0ynWd0nFjBwgSW0ZUAxe7dfvU5imv+K9QlfhV+pEKGOlJVZ8+w==",
+      "path": "system.reactive.core/3.0.0",
+      "hashPath": "system.reactive.core.3.0.0.nupkg.sha512"
+    },
+    "system.reactive.interfaces/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MuLvWYegIrhvUVe3MRMIBxFGx4kiz0FEzN3TTvhX+m3WmJCi5+OE4J7yPWtZjGGTUh5wysGyaF9thcnCzx/J3w==",
+      "path": "system.reactive.interfaces/3.0.0",
+      "hashPath": "system.reactive.interfaces.3.0.0.nupkg.sha512"
+    },
+    "system.reactive.linq/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CmQ+WpeOFzwYlDKafLQLT5McvR1TWCi3UudeBnajguvi/8ZGHDoQ2MPTo401EKkSvW48uTsJyvcKXN/C7g91Qg==",
+      "path": "system.reactive.linq/3.0.0",
+      "hashPath": "system.reactive.linq.3.0.0.nupkg.sha512"
+    },
+    "system.reactive.platformservices/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1yYsCsIqrpu228er3iC1naLcCnIpdDRuyFhD78P6C54YyiR84ElDUjWYEMVneUKxrP6PlwrZp2VEf0DHAHX8gw==",
+      "path": "system.reactive.platformservices/3.0.0",
+      "hashPath": "system.reactive.platformservices.3.0.0.nupkg.sha512"
+    },
+    "system.runtime.interopservices.windowsruntime/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oIIXM4w2y3MiEZEXA+RTtfPV+SZ1ymbFdWppHlUciNdNIL0/Uo3HW9q9iN2O7T7KUmRdvjA7C2Gv4exAyW4zEQ==",
+      "path": "system.runtime.interopservices.windowsruntime/4.0.1",
+      "hashPath": "system.runtime.interopservices.windowsruntime.4.0.1.nupkg.sha512"
+    },
+    "system.runtime.serialization.primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "path": "system.runtime.serialization.primitives/4.1.1",
+      "hashPath": "system.runtime.serialization.primitives.4.1.1.nupkg.sha512"
+    },
+    "system.valuetuple/4.0.0-rc3-24212-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yooyl0u8E5kNIAtmGt8hrpeQk66GMdPiujKpKqZl25EW0Q98vubsYokQ4FTZeunX0YR8ZN67+Zes3yKH1WaW0Q==",
+      "path": "system.valuetuple/4.0.0-rc3-24212-01",
+      "hashPath": "system.valuetuple.4.0.0-rc3-24212-01.nupkg.sha512"
+    },
+    "system.xml.xmlserializer/4.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
+      "path": "system.xml.xmlserializer/4.0.11",
+      "hashPath": "system.xml.xmlserializer.4.0.11.nupkg.sha512"
+    },
+    "wampsharp/1.2.5.35-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sYcxAbXLkP9ba8zAW5CseA+XZH5gE2EHh4RHamWSDDRhI3cOUWn466II58L1oQzxNqry+u3YgGyq0QRq/4cjjA==",
+      "path": "wampsharp/1.2.5.35-beta",
+      "hashPath": "wampsharp.1.2.5.35-beta.nupkg.sha512"
+    },
+    "wampsharp.websocket4net/1.2.5.35-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iHrelwVJ+PqL9bzKYk0ihCyCI9tcLfdGaVSsofsv+zJTzWdsJ7AmBV9YFqZ6b9drmdJpZMhpO8c7ZQlBLc6GPA==",
+      "path": "wampsharp.websocket4net/1.2.5.35-beta",
+      "hashPath": "wampsharp.websocket4net.1.2.5.35-beta.nupkg.sha512"
+    },
+    "websocket4net/0.15.0-beta5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3uPQaORLtYh74w+NmZIv1+mY/yuhmoxMRjIfbLrMp5+4qdkR24d49unGEojeMClIjnkHKjazkyDs7lzyMBWqHg==",
+      "path": "websocket4net/0.15.0-beta5",
+      "hashPath": "websocket4net.0.15.0-beta5.nupkg.sha512"
+    }
+  }
+}

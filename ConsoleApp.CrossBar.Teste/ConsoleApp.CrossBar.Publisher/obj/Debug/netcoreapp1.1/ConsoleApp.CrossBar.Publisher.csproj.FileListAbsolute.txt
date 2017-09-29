@@ -1,0 +1,9 @@
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.deps.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.runtimeconfig.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.runtimeconfig.dev.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.dll
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.AssemblyInfo.cs
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.csprojResolveAssemblyReference.cache
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.pdb
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.dll
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Publisher\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Publisher.pdb

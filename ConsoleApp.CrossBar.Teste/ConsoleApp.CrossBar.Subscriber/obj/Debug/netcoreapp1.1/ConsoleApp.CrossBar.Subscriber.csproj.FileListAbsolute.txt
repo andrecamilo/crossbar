@@ -1,0 +1,9 @@
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.deps.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.runtimeconfig.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.runtimeconfig.dev.json
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.dll
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.csprojResolveAssemblyReference.cache
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.AssemblyInfo.cs
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\bin\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.pdb
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.dll
+c:\users\andre.camilo\documents\visual studio 2017\Projects\ConsoleApp.CrossBar.Teste\ConsoleApp.CrossBar.Subscriber\obj\Debug\netcoreapp1.1\ConsoleApp.CrossBar.Subscriber.pdb
